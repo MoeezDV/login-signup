@@ -1,5 +1,5 @@
 import React from 'react';
-
+import dashboard from './dashboard.css';
 function Dashboard() {
   return (
     <div>
